@@ -1,5 +1,9 @@
 #Pints and Transit
 
+Group github: https://github.com/eerofeeva/Pints-and-Transit
+
+This is a copy of the group github for this project.
+
 See image folder for screenshots of the project in action.
 
 For Project 2 our group has chosen to explore the niceride bike system and locations of breweries around the Twin Cities, as well as interesting articles 
